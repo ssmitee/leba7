@@ -1,0 +1,14 @@
+C:\Users\smite\source\repos\leba7\leba7\bin\Debug\net7.0\leba7.exe
+C:\Users\smite\source\repos\leba7\leba7\bin\Debug\net7.0\leba7.deps.json
+C:\Users\smite\source\repos\leba7\leba7\bin\Debug\net7.0\leba7.runtimeconfig.json
+C:\Users\smite\source\repos\leba7\leba7\bin\Debug\net7.0\leba7.dll
+C:\Users\smite\source\repos\leba7\leba7\bin\Debug\net7.0\leba7.pdb
+C:\Users\smite\source\repos\leba7\leba7\obj\Debug\net7.0\leba7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smite\source\repos\leba7\leba7\obj\Debug\net7.0\leba7.AssemblyInfoInputs.cache
+C:\Users\smite\source\repos\leba7\leba7\obj\Debug\net7.0\leba7.AssemblyInfo.cs
+C:\Users\smite\source\repos\leba7\leba7\obj\Debug\net7.0\leba7.csproj.CoreCompileInputs.cache
+C:\Users\smite\source\repos\leba7\leba7\obj\Debug\net7.0\leba7.dll
+C:\Users\smite\source\repos\leba7\leba7\obj\Debug\net7.0\refint\leba7.dll
+C:\Users\smite\source\repos\leba7\leba7\obj\Debug\net7.0\leba7.pdb
+C:\Users\smite\source\repos\leba7\leba7\obj\Debug\net7.0\leba7.genruntimeconfig.cache
+C:\Users\smite\source\repos\leba7\leba7\obj\Debug\net7.0\ref\leba7.dll
